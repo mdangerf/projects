@@ -19,6 +19,8 @@ to change.
 
 I have provided the neccesary files to use the scripts. Simply
 drag the files into a new pycharm project folder.
+
+Video of working automation: https://youtu.be/QdYZZ-vzj3A
 =================================================================
                          ***Reminder***
 The purpose of this project is to inform you of the possibilities
